@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="poi-scratchpad-3.2-FINAL-20081019">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/keeptaxes/Lib/poi-bin-3.2-FINAL-20081019/poi-3.2-FINAL/poi-scratchpad-3.2-FINAL-20081019.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/keeptaxes/Lib/poi-bin-3.2-FINAL-20081019/poi-3.2-FINAL/poi-contrib-3.2-FINAL-20081019.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/keeptaxes/Lib/poi-bin-3.2-FINAL-20081019/poi-3.2-FINAL/poi-3.2-FINAL-20081019.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
